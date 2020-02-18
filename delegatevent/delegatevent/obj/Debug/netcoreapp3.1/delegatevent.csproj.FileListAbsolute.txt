@@ -1,0 +1,11 @@
+C:\Users\s534685\source\repos\delegatevent\delegatevent\bin\Debug\netcoreapp3.1\delegatevent.exe
+C:\Users\s534685\source\repos\delegatevent\delegatevent\bin\Debug\netcoreapp3.1\delegatevent.deps.json
+C:\Users\s534685\source\repos\delegatevent\delegatevent\bin\Debug\netcoreapp3.1\delegatevent.runtimeconfig.json
+C:\Users\s534685\source\repos\delegatevent\delegatevent\bin\Debug\netcoreapp3.1\delegatevent.runtimeconfig.dev.json
+C:\Users\s534685\source\repos\delegatevent\delegatevent\bin\Debug\netcoreapp3.1\delegatevent.dll
+C:\Users\s534685\source\repos\delegatevent\delegatevent\bin\Debug\netcoreapp3.1\delegatevent.pdb
+C:\Users\s534685\source\repos\delegatevent\delegatevent\obj\Debug\netcoreapp3.1\delegatevent.csprojAssemblyReference.cache
+C:\Users\s534685\source\repos\delegatevent\delegatevent\obj\Debug\netcoreapp3.1\delegatevent.AssemblyInfoInputs.cache
+C:\Users\s534685\source\repos\delegatevent\delegatevent\obj\Debug\netcoreapp3.1\delegatevent.AssemblyInfo.cs
+C:\Users\s534685\source\repos\delegatevent\delegatevent\obj\Debug\netcoreapp3.1\delegatevent.dll
+C:\Users\s534685\source\repos\delegatevent\delegatevent\obj\Debug\netcoreapp3.1\delegatevent.pdb

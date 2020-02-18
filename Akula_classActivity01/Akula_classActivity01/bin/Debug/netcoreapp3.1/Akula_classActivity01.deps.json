@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Akula_classActivity01/1.0.0": {
+        "runtime": {
+          "Akula_classActivity01.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Akula_classActivity01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

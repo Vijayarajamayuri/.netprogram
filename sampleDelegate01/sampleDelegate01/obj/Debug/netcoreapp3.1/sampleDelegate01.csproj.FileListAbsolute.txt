@@ -1,0 +1,11 @@
+C:\Users\s534685\source\repos\sampleDelegate01\sampleDelegate01\bin\Debug\netcoreapp3.1\sampleDelegate01.exe
+C:\Users\s534685\source\repos\sampleDelegate01\sampleDelegate01\bin\Debug\netcoreapp3.1\sampleDelegate01.deps.json
+C:\Users\s534685\source\repos\sampleDelegate01\sampleDelegate01\bin\Debug\netcoreapp3.1\sampleDelegate01.runtimeconfig.json
+C:\Users\s534685\source\repos\sampleDelegate01\sampleDelegate01\bin\Debug\netcoreapp3.1\sampleDelegate01.runtimeconfig.dev.json
+C:\Users\s534685\source\repos\sampleDelegate01\sampleDelegate01\bin\Debug\netcoreapp3.1\sampleDelegate01.dll
+C:\Users\s534685\source\repos\sampleDelegate01\sampleDelegate01\bin\Debug\netcoreapp3.1\sampleDelegate01.pdb
+C:\Users\s534685\source\repos\sampleDelegate01\sampleDelegate01\obj\Debug\netcoreapp3.1\sampleDelegate01.csprojAssemblyReference.cache
+C:\Users\s534685\source\repos\sampleDelegate01\sampleDelegate01\obj\Debug\netcoreapp3.1\sampleDelegate01.AssemblyInfoInputs.cache
+C:\Users\s534685\source\repos\sampleDelegate01\sampleDelegate01\obj\Debug\netcoreapp3.1\sampleDelegate01.AssemblyInfo.cs
+C:\Users\s534685\source\repos\sampleDelegate01\sampleDelegate01\obj\Debug\netcoreapp3.1\sampleDelegate01.dll
+C:\Users\s534685\source\repos\sampleDelegate01\sampleDelegate01\obj\Debug\netcoreapp3.1\sampleDelegate01.pdb

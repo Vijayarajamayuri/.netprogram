@@ -1,0 +1,11 @@
+C:\Users\s534685\source\repos\ClassActivity01\ClassActivity01\bin\Debug\netcoreapp3.1\ClassActivity01.exe
+C:\Users\s534685\source\repos\ClassActivity01\ClassActivity01\bin\Debug\netcoreapp3.1\ClassActivity01.deps.json
+C:\Users\s534685\source\repos\ClassActivity01\ClassActivity01\bin\Debug\netcoreapp3.1\ClassActivity01.runtimeconfig.json
+C:\Users\s534685\source\repos\ClassActivity01\ClassActivity01\bin\Debug\netcoreapp3.1\ClassActivity01.runtimeconfig.dev.json
+C:\Users\s534685\source\repos\ClassActivity01\ClassActivity01\bin\Debug\netcoreapp3.1\ClassActivity01.dll
+C:\Users\s534685\source\repos\ClassActivity01\ClassActivity01\bin\Debug\netcoreapp3.1\ClassActivity01.pdb
+C:\Users\s534685\source\repos\ClassActivity01\ClassActivity01\obj\Debug\netcoreapp3.1\ClassActivity01.csprojAssemblyReference.cache
+C:\Users\s534685\source\repos\ClassActivity01\ClassActivity01\obj\Debug\netcoreapp3.1\ClassActivity01.AssemblyInfoInputs.cache
+C:\Users\s534685\source\repos\ClassActivity01\ClassActivity01\obj\Debug\netcoreapp3.1\ClassActivity01.AssemblyInfo.cs
+C:\Users\s534685\source\repos\ClassActivity01\ClassActivity01\obj\Debug\netcoreapp3.1\ClassActivity01.dll
+C:\Users\s534685\source\repos\ClassActivity01\ClassActivity01\obj\Debug\netcoreapp3.1\ClassActivity01.pdb

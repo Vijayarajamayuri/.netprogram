@@ -1,0 +1,11 @@
+C:\Users\s534685\source\repos\BankAccountDemo\BankAccountDemo\bin\Debug\netcoreapp3.1\BankAccountDemo.exe
+C:\Users\s534685\source\repos\BankAccountDemo\BankAccountDemo\bin\Debug\netcoreapp3.1\BankAccountDemo.deps.json
+C:\Users\s534685\source\repos\BankAccountDemo\BankAccountDemo\bin\Debug\netcoreapp3.1\BankAccountDemo.runtimeconfig.json
+C:\Users\s534685\source\repos\BankAccountDemo\BankAccountDemo\bin\Debug\netcoreapp3.1\BankAccountDemo.runtimeconfig.dev.json
+C:\Users\s534685\source\repos\BankAccountDemo\BankAccountDemo\bin\Debug\netcoreapp3.1\BankAccountDemo.dll
+C:\Users\s534685\source\repos\BankAccountDemo\BankAccountDemo\bin\Debug\netcoreapp3.1\BankAccountDemo.pdb
+C:\Users\s534685\source\repos\BankAccountDemo\BankAccountDemo\obj\Debug\netcoreapp3.1\BankAccountDemo.csprojAssemblyReference.cache
+C:\Users\s534685\source\repos\BankAccountDemo\BankAccountDemo\obj\Debug\netcoreapp3.1\BankAccountDemo.AssemblyInfoInputs.cache
+C:\Users\s534685\source\repos\BankAccountDemo\BankAccountDemo\obj\Debug\netcoreapp3.1\BankAccountDemo.AssemblyInfo.cs
+C:\Users\s534685\source\repos\BankAccountDemo\BankAccountDemo\obj\Debug\netcoreapp3.1\BankAccountDemo.dll
+C:\Users\s534685\source\repos\BankAccountDemo\BankAccountDemo\obj\Debug\netcoreapp3.1\BankAccountDemo.pdb

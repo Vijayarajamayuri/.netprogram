@@ -1,0 +1,11 @@
+C:\Users\s534685\source\repos\assignmenttest\assignmenttest\bin\Debug\netcoreapp3.1\assignmenttest.exe
+C:\Users\s534685\source\repos\assignmenttest\assignmenttest\bin\Debug\netcoreapp3.1\assignmenttest.deps.json
+C:\Users\s534685\source\repos\assignmenttest\assignmenttest\bin\Debug\netcoreapp3.1\assignmenttest.runtimeconfig.json
+C:\Users\s534685\source\repos\assignmenttest\assignmenttest\bin\Debug\netcoreapp3.1\assignmenttest.runtimeconfig.dev.json
+C:\Users\s534685\source\repos\assignmenttest\assignmenttest\bin\Debug\netcoreapp3.1\assignmenttest.dll
+C:\Users\s534685\source\repos\assignmenttest\assignmenttest\bin\Debug\netcoreapp3.1\assignmenttest.pdb
+C:\Users\s534685\source\repos\assignmenttest\assignmenttest\obj\Debug\netcoreapp3.1\assignmenttest.csprojAssemblyReference.cache
+C:\Users\s534685\source\repos\assignmenttest\assignmenttest\obj\Debug\netcoreapp3.1\assignmenttest.AssemblyInfoInputs.cache
+C:\Users\s534685\source\repos\assignmenttest\assignmenttest\obj\Debug\netcoreapp3.1\assignmenttest.AssemblyInfo.cs
+C:\Users\s534685\source\repos\assignmenttest\assignmenttest\obj\Debug\netcoreapp3.1\assignmenttest.dll
+C:\Users\s534685\source\repos\assignmenttest\assignmenttest\obj\Debug\netcoreapp3.1\assignmenttest.pdb

@@ -1,0 +1,9 @@
+C:\Users\s534685\source\repos\Calculatersample\Calculatersample\bin\Debug\Calculatersample.exe.config
+C:\Users\s534685\source\repos\Calculatersample\Calculatersample\bin\Debug\Calculatersample.exe
+C:\Users\s534685\source\repos\Calculatersample\Calculatersample\bin\Debug\Calculatersample.pdb
+C:\Users\s534685\source\repos\Calculatersample\Calculatersample\obj\Debug\Calculatersample.csprojAssemblyReference.cache
+C:\Users\s534685\source\repos\Calculatersample\Calculatersample\obj\Debug\Calculatersample.Form1.resources
+C:\Users\s534685\source\repos\Calculatersample\Calculatersample\obj\Debug\Calculatersample.Properties.Resources.resources
+C:\Users\s534685\source\repos\Calculatersample\Calculatersample\obj\Debug\Calculatersample.csproj.GenerateResource.cache
+C:\Users\s534685\source\repos\Calculatersample\Calculatersample\obj\Debug\Calculatersample.exe
+C:\Users\s534685\source\repos\Calculatersample\Calculatersample\obj\Debug\Calculatersample.pdb

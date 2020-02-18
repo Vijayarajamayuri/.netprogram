@@ -1,0 +1,11 @@
+C:\Users\s534685\source\repos\DelegateLearning\DelegateLearning\bin\Debug\netcoreapp3.1\DelegateLearning.exe
+C:\Users\s534685\source\repos\DelegateLearning\DelegateLearning\bin\Debug\netcoreapp3.1\DelegateLearning.deps.json
+C:\Users\s534685\source\repos\DelegateLearning\DelegateLearning\bin\Debug\netcoreapp3.1\DelegateLearning.runtimeconfig.json
+C:\Users\s534685\source\repos\DelegateLearning\DelegateLearning\bin\Debug\netcoreapp3.1\DelegateLearning.runtimeconfig.dev.json
+C:\Users\s534685\source\repos\DelegateLearning\DelegateLearning\bin\Debug\netcoreapp3.1\DelegateLearning.dll
+C:\Users\s534685\source\repos\DelegateLearning\DelegateLearning\bin\Debug\netcoreapp3.1\DelegateLearning.pdb
+C:\Users\s534685\source\repos\DelegateLearning\DelegateLearning\obj\Debug\netcoreapp3.1\DelegateLearning.csprojAssemblyReference.cache
+C:\Users\s534685\source\repos\DelegateLearning\DelegateLearning\obj\Debug\netcoreapp3.1\DelegateLearning.AssemblyInfoInputs.cache
+C:\Users\s534685\source\repos\DelegateLearning\DelegateLearning\obj\Debug\netcoreapp3.1\DelegateLearning.AssemblyInfo.cs
+C:\Users\s534685\source\repos\DelegateLearning\DelegateLearning\obj\Debug\netcoreapp3.1\DelegateLearning.dll
+C:\Users\s534685\source\repos\DelegateLearning\DelegateLearning\obj\Debug\netcoreapp3.1\DelegateLearning.pdb

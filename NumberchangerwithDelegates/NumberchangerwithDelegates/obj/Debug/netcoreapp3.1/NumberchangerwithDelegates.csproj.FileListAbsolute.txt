@@ -1,0 +1,10 @@
+C:\Users\s534685\source\repos\NumberchangerwithDelegates\NumberchangerwithDelegates\bin\Debug\netcoreapp3.1\NumberchangerwithDelegates.exe
+C:\Users\s534685\source\repos\NumberchangerwithDelegates\NumberchangerwithDelegates\bin\Debug\netcoreapp3.1\NumberchangerwithDelegates.deps.json
+C:\Users\s534685\source\repos\NumberchangerwithDelegates\NumberchangerwithDelegates\bin\Debug\netcoreapp3.1\NumberchangerwithDelegates.runtimeconfig.json
+C:\Users\s534685\source\repos\NumberchangerwithDelegates\NumberchangerwithDelegates\bin\Debug\netcoreapp3.1\NumberchangerwithDelegates.runtimeconfig.dev.json
+C:\Users\s534685\source\repos\NumberchangerwithDelegates\NumberchangerwithDelegates\bin\Debug\netcoreapp3.1\NumberchangerwithDelegates.dll
+C:\Users\s534685\source\repos\NumberchangerwithDelegates\NumberchangerwithDelegates\bin\Debug\netcoreapp3.1\NumberchangerwithDelegates.pdb
+C:\Users\s534685\source\repos\NumberchangerwithDelegates\NumberchangerwithDelegates\obj\Debug\netcoreapp3.1\NumberchangerwithDelegates.AssemblyInfoInputs.cache
+C:\Users\s534685\source\repos\NumberchangerwithDelegates\NumberchangerwithDelegates\obj\Debug\netcoreapp3.1\NumberchangerwithDelegates.AssemblyInfo.cs
+C:\Users\s534685\source\repos\NumberchangerwithDelegates\NumberchangerwithDelegates\obj\Debug\netcoreapp3.1\NumberchangerwithDelegates.dll
+C:\Users\s534685\source\repos\NumberchangerwithDelegates\NumberchangerwithDelegates\obj\Debug\netcoreapp3.1\NumberchangerwithDelegates.pdb
